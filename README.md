@@ -9,3 +9,11 @@
 6. 阿里云视频点播
 7. 阿里云OSS对象存储
 8. 基于微信开放平台扫码登录
+
+Analysis: Magic Draw (UML)
+Design: IntelliJ / MS Visual Studio
+Testing: JUnit
+Project Management: Jira
+Quality: Sonar
+Continuous Integration: Jenkins, Maven
+Version Management: Git
